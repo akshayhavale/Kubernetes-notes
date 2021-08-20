@@ -155,3 +155,5 @@ kubectl describe service SERVICENAME
 
 18. SO TO NEED TO CHECK ALL SERVICE DEPLOYEMENTS RELATED TO POD
 kubectl get all | grep mongodb
+
+19. TO make kubernetes services to be externalised use loadbalanced
